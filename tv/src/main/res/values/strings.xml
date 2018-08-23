@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Tingo</string>
+    <string name="browse_title"><![CDATA[Tingo]]></string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="Watch_Now">WATCH NOW</string>
+    <!--<string name="watch_trailer_2">FREE</string>-->
+    <!--<string name="rent_1">WATCH LATER</string>-->
+    <!--<string name="rent_2">From $1.99</string>-->
+    <!--<string name="buy_1">Buy and Own</string>-->
+    <!--<string name="buy_2">AT $9.99</string>-->
+    <string name="movie">Movie</string>
+    <string name="catalog_url">https://storage.googleapis.com/android-tv/android_tv_videos_new.json</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+
+
+    <!-- Strings related to onboarding -->
+    <string name="onboarding_title_welcome">Welcome to Tingo Tv</string>
+    <string name="onboarding_title_design">Designed for Android</string>
+    <string name="onboarding_title_simple">Simple to include</string>
+    <string name="onboarding_title_project">Check out the Sample Project</string>
+
+    <string name="onboarding_description_welcome">All Your Favourite Channels at a go</string>
+    <string name="onboarding_description_design">All Your Favourite Channels packed just for you at a go</string>
+    <string name="onboarding_description_simple">You can include the Leanback library through gradle in your own apps</string>
+    <string name="onboarding_description_project">Are you looking for guidance? This sample is available on GitHub so you can see how we built this.</string>
+    <string name="pref_title_settings">App Settings</string>
+    <string name="pref_title_recommendations">Recommendations</string>
+    <string name="pref_key_recommendations">pref_recommendations</string>
+    <string name="pref_key_screen_general">general_settings</string>
+    <string name="pref_title_screen_general">General Settings</string>
+    <string name="pref_key_screen_signin">signin</string>
+    <string name="pref_title_screen_signin">Please Login</string>
+    <string name="pref_title_login_description">Please enter your username and password</string>
+    <string name="pref_title_username">Username</string>
+    <string name="pref_title_password">Password</string>
+    <string name="pref_key_login">pref_login</string>
+    <string name="pref_title_login">Login</string>
+    <string name="playback_tag">PLAYBACK_TAG</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">REGISTER</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+</resources>

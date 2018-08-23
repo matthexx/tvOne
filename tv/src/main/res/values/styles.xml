@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="@style/Theme.Leanback" >
+        <item name="android:textColor">@color/primary</item>
+    </style>
+
+    <style name="MyCustomRowHeaderStyle" parent="Widget.Leanback.Row.Header">
+        <item name="android:textColor">@color/primary</item>
+    </style>
+    o
+    <style name="AppCompatTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:colorPrimary">@color/primary</item>
+    </style>
+
+    <style name="TextAppearance.App.TextInputLayout" parent="@android:style/TextAppearance">
+    <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="MyCustomBrowseStyle" parent="Theme.Leanback.Browse">
+        <item name="rowHeaderStyle">@style/MyCustomRowHeaderStyle</item>
+    </style>
+</resources>
